@@ -1,6 +1,5 @@
 # Reentrancy vulnerability POC - Foundry
 
-Example of Cross-Contract Reentrancy vulnerability.
 Presentation of reentrancy vulnerability by recreation of the past incident - [Twitter](https://twitter.com/peckshield/status/1502815435498176514)
 
 This repo is only for the educational purpose.
